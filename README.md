@@ -2,7 +2,7 @@
 Returns availability of TikTok username lists.
 
 ## Information
-This tool was strictly developed to demonstrate how straightforward it is to claim an OG username on a platform like TikTok — simply paste the usernames you would like to check the availabilities for in Usernames.txt and run main.py. However, it is spamming TikTok's API, so please refrain from using this TikTok Username Checker. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
+This tool was strictly developed to demonstrate how straightforward it is to claim OG usernames on platforms like TikTok — simply paste the usernames you would like to check the availabilities for in Usernames.txt and run main.py. However, it is spamming TikTok's API, so please refrain from using this TikTok Username Checker. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
 
 Thanks to [verdict](https://github.com/notverdict) for this intelligent idea.<br>
 His Discord username: verdict#0200
